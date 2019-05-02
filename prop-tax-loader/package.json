@@ -1,0 +1,16 @@
+{
+  "name": "prop-tax-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rv",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "neo4j-driver": "^1.6.2",
+    "node-xlsx": "^0.12.1"
+  }
+}
